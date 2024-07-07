@@ -1,3 +1,3 @@
 # Advanced-Operating-Systems
 
-Installation, Configuration of a network OS, deploying and execution of an application.
+Installation, Configuration of a network Operating System, deploying and execution of an application.
